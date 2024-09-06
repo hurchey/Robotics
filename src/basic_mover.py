@@ -78,7 +78,7 @@ class my_solution:
 
 if __name__ == '__main__':
     rospy.init_node('basic_mover')
-    # BasicMover().out_and_back(1)
+    # BasicMover().out_and_back(1) <- uncomment
     # BasicMover().draw_square(1)
     # BasicMover().move_in_a_circle(1)
     # BasicMover().rotate_in_place()
